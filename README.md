@@ -1,4 +1,4 @@
-# Hi there, I'm Zhz 👋
+# Hi there, I'm Smooth 👋
 
 ## About Me
 I'm a passionate frontend developer who loves exploring new technologies. Currently working on enhancing my skills in Nest.js and React with the goal of becoming a full-stack developer.
