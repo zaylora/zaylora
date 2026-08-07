@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s1.aigei.com/prevfiles/c189773a8b8441edac2adf93637ed692.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:aKJMel63GLDCHEo3kq-ePDt_HZY=" width="320" alt="cat gif" />
+  <img src="./assets/c189773a8b8441edac2adf93637ed692.gif" width="320" alt="cat gif" />
 </p>
 
 <h1 align="center">Hi there, I'm Smooth 👋</h1>
