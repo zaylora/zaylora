@@ -1,13 +1,34 @@
-# Hi there, I'm Smooth 👋
+<p align="center">
+  <img src="https://s1.aigei.com/prevfiles/c189773a8b8441edac2adf93637ed692.gif?e=2051020800&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:aKJMel63GLDCHEo3kq-ePDt_HZY=" width="320" alt="cat gif" />
+</p>
 
-## About Me
-I'm a passionate frontend developer who loves exploring new technologies. Currently working on enhancing my skills in Nest.js and React with the goal of becoming a full-stack developer.
+<h1 align="center">Hi there, I'm Smooth 👋</h1>
 
-## 🚀 What I'm up to
-- 🌱 Working as a frontend developer, currently learning Nextjs
-- 👯 Aspiring to become a full-stack developer
-- 🔭 Knowledge in web scraping, JS reverse engineering, and .NET development
-- 📝 Check out my blog: [CSDN](https://blog.csdn.net/qq_51688013?spm=1000.2115.3001.5343)
+<p align="center">
+  <b>前端工程师 · AI-native 产品与 Agent 应用探索者 🚀</b>
+</p>
+
+---
+
+## 📌 关于我
+
+你好呀！我是 Smooth，目前是一名前端开发工程师，正在探索 AI 的更多可能。
+
+我关注 AI Agent、AI 创作工具和开发者工具，喜欢把想法拆成可运行、可验证的产品。
+
+> 💡 让 AI 不再只是工具，而是人们的伙伴。
+
+---
+
+## 📌 About Me
+
+Hi! I’m Smooth, a front-end engineer currently exploring the world of AI.
+
+I’m interested in AI agents, AI-powered creative tools, and developer tools. I enjoy turning ideas into products that are practical, testable, and ready to use.
+
+> 💡 My goal: make AI more than just a tool — a genuine partner for people.
+
+---
 
 ## Contribution Snake
 
